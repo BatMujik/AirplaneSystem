@@ -1,0 +1,3 @@
+C:/Users/lyudv/CLionProjects/AirplaneSystem/cmake-build-debug/CMakeFiles/AirplaneSystem.dir
+C:/Users/lyudv/CLionProjects/AirplaneSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lyudv/CLionProjects/AirplaneSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
